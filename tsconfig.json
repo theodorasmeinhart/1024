@@ -11,7 +11,7 @@
     "target": "esnext",
     "types": [],
     // For nodejs:
-    "moduleResolution": "node"
+    "moduleResolution": "nodenext",
     // "lib": ["esnext"],
     // "types": ["node"],
     // and npm install -D @types/node
